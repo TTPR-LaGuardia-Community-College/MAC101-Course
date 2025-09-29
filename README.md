@@ -1,11 +1,8 @@
-# MAC101-Course
-
-This is the Fall 2025 Course for MAC101 Intro to C++
-
 # LaGuardia Community College
 
 **City University of New York**  
 Department of Mathematics, Engineering, and Computer Science
+This is the Fall 2025 Course for MAC101 Intro to C++
 
 ## MAC101: Introduction to Computer Science
 
